@@ -30,17 +30,20 @@ Portfolio-Website/
 │── style.css
 └── README.md
 ```
-**## Installation
+## Installation
 
 1. Clone the repository:
 
 ```bash
-
+https://github.com/sakshitambole/My-portfolio.git
 ```
 
 2. Open the project folder.
+  ```bash
+cd My-portfolio
+```
 
-3. Open `index.html` in your web browser.**
+4. Open `index.html` in your web browser.
 
 
 
