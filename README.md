@@ -24,9 +24,23 @@ A responsive and modern personal portfolio website developed using **HTML5** and
 ## 📂 Project Structure
 
 Portfolio-Website/
+```
+Portfolio-Website/
 │── index.html
 │── style.css
 └── README.md
+```
+**## Installation
+
+1. Clone the repository:
+
+```bash
+
+```
+
+2. Open the project folder.
+
+3. Open `index.html` in your web browser.**
 
 
 
