@@ -45,9 +45,6 @@ cd My-portfolio
 
 4. Open `index.html` in your web browser.
 
-##🚀 Live Demo
-
-https://sakshitambole.github.io/My-portfolio/
 
 ## 👩‍💻 Author
 
