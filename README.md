@@ -47,5 +47,16 @@ cd My-portfolio
 
 ##🚀 Live Demo
 
+https://sakshitambole.github.io/My-portfolio/
+
+## 👩‍💻 Author
+
+**Sakshi Tambole**
+
+Computer Science Engineering Student
+
+## ⭐ Show Your Support
+
+If you like this project, give it a ⭐ on GitHub!
 
 
